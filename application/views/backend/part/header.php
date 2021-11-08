@@ -10,7 +10,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?php echo base_url('asset/bootstrap.min.css'); ?>">
 
-    <title><?php if(isset($title)){ echo $title; } ?> - DbSekolahXII</title>
+    <title><?php if(isset($title)){ echo $title; } ?> - Kampus</title>
 </head>
 
 <body>
