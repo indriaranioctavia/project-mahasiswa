@@ -1,7 +1,7 @@
 
     <!-- BAGIAN KONTEN -->
     <div class="container">
-        <h1>Data Keseluruhan dosen</h1>
+        <h1>Data Keseluruhan Dosen</h1>
         <button type="button" class="btn btn-success m-1" data-toggle="modal" data-target="#modal_dosen" data-whatever="@mdo">Tambah dosen</button>
 
         <?php

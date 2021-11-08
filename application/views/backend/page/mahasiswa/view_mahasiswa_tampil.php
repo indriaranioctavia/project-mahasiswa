@@ -1,6 +1,6 @@
 <!-- BAGIAN KONTEN -->
 <div class="container">
-    <h1>Data Keseluruhan mahasiswa</h1>
+    <h1>Data Keseluruhan Mahasiswa</h1>
     <button type="button" class="btn btn-success m-1" data-toggle="modal" data-target="#modal_mahasiswa" data-whatever="@mdo">Tambah mahasiswa</button>
 
     <?php
